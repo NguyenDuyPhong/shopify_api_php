@@ -1,6 +1,6 @@
 # shopify_api_php
-Created: phong.nguyen 20151022 
-Project: Shopify API for php 
+- @author: phong.nguyen 20151022  
+- @project: Shopify API Client for php  
 
 # usage inside CodeIgniter app: 
 - Put ShopifyAPI inside folder **".../third_party/"**  
@@ -10,7 +10,7 @@ require_once APPPATH."/third_party/ShopifyAPI/autoload.php";
 ```
 - Get token  
 . Please read docs: https://docs.shopify.com/api/authentication/oauth   
-. . View a demo app included inside this stuff. 
+. View a demo app included inside this stuff. 
 - Get 1 product by id 
 
 ```ruby
